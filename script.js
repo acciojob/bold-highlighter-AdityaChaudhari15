@@ -22,9 +22,3 @@ function return_normal() {
 
 
 
-
-function return_normal() {
-    //Write your code here
-
-    
-}
